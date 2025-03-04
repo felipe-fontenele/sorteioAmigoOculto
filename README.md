@@ -7,9 +7,15 @@
 
 <h2>Funcionalidades do Projeto</h2>
 <ul>
-  <li>Entre na página index.html do repositório</li>
+  <li>Entre na página index.html do repositório.</li>
+    <br>
+    <center><img src="assets/index.png"></center>
   <li>No campo de texto, digite um nome para ser sorteado e aperte no botão "Adicionar". Faça esse processo para cada amigo que desejar adicionar no Amigo Secreto. </li>
+    <br>
+    <center><img src="assets/passo_4.png"></center>
   <li>Para sortear o seu amigo secreto, aperte no botão "Sortear Amigo" que vai aparecer o resultado acima dele.</li>
+    <br>
+    <center><img src="assets/passo_5.png"></center>
 </ul>
 
 <h2>Acesso ao Projeto</h2>
