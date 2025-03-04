@@ -19,7 +19,7 @@
 </ul>
 
 <h2>Acesso ao Projeto</h2>
-<p>Baixe os arquivos no botão "code" da página do repositório, clique em "Download ZIP". Depois de baixar, abra o arquivo "index.html".</p>
+<p>Baixe os arquivos no botão "code" da página do repositório, clique em "Download ZIP". Depois de baixar, abra a pasta principal no VScode e depois abra o arquivo "index.html".</p>
 <h2>Tecnologias Utilizadas</h2>
 <ul>
   <li>Javascript</li>
